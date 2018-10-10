@@ -1,0 +1,17 @@
+# InteliJ IDEA
+*.iml
+.idea/
+
+# Python
+*.pyc
+*.mo
+/ENV/
+
+# Data
+/data/
+
+*.vec
+*.bin
+
+/hierarchical-attention-model/data/
+/hierarchical-attention-model/logs/
